@@ -1,5 +1,8 @@
 # csplayer-release
 Change log 
+v1.0.5
+  -  Fixes season pack
+    
 v1.0.4
   -  Fixes subtitle bugs
   -  Requires all-file-access permission
