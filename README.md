@@ -1,5 +1,8 @@
 # csplayer-release
 Change log 
+v1.0.6
+  - Added MPV player support for playing multiple formats.
+    
 v1.0.5
   -  Fixes season pack
     
