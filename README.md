@@ -1,5 +1,10 @@
 # csplayer-release
 Change log 
+
+v1.0.7
+  - Update mpv core player
+  - Play local video
+    
 v1.0.6
   - Added MPV player support for playing multiple formats.
     
